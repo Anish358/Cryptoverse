@@ -1,6 +1,6 @@
 import "./App.css";
 import { Routes, Route, Link } from "react-router-dom";
-import { Layout, Typography, Space, Divider } from "antd";
+import { Layout, Typography, Space } from "antd";
 import {
   Navbar,
   Exchanges,
